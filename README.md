@@ -25,8 +25,8 @@ Made for the Flatpak version of Vesktop (`dev.vencord.Vesktop`).
 Clone the repo and run the script:
 
 ```
-git clone https://github.com/oclunny/panorama-icons.git
-cd panorama-icons
+git clone https://github.com/oclunny/panorama-icons-byclunny.git
+cd panorama-icons-byclunny
 chmod +x change-vesktop-icons-byclunny.sh
 ./change-vesktop-icons-byclunny.sh
 ```
